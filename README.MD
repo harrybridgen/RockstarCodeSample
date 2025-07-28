@@ -82,4 +82,4 @@ They showcase:
 ---
 
 # Going Forward
-If you would like to see or learn more or even see it in action, please feel free to schedual an online meeting.
+If you would like to see or learn more or even see it in action, please feel free to schedule an online meeting.
