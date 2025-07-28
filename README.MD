@@ -6,8 +6,8 @@
 - **MiniQuest** - a standalone 2D RPG engine built in Python + Pygame.
 
 ## Note
-## The Blothera code samples shown here are from just 2 of over 30 original plugins.
-## The MiniQuest samples represent approximately 10% of the full project.
+> The Blothera code samples shown here are from just 2 of over 30 original plugins.
+> The MiniQuest samples represent approximately 10% of the full project.
 > This repo only scratches the surface. Many design decisions, including algorithms, data structures, and system architecture, are best discussed live.  
 > If you'd like to look deeper, I'm happy to walk through the code and concepts in a quick online call.
 
