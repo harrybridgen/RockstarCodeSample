@@ -14,9 +14,9 @@
 ---
 
 ## Repository Structure
-- BlotheraNations/ # Persistent nation-building system (Java)
-- BlotheraTrains/ # Modular train system (Java)
-- MiniQuest/ # Full 2D RPG engine with combat, quests, AI (Python)
+- BlotheraNations/ #Persistent nation-building system (Java)
+- BlotheraTrains/ #Modular train system (Java)
+- MiniQuest/ #Full 2D RPG engine/game with combat, quests, AI (Python)
 
 ---
 
