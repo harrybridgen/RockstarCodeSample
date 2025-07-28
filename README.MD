@@ -20,7 +20,7 @@
 
 ---
 
-## BlotheraNations (Java, Spigot)
+## BlotheraNations (Java, SQL, Paper API)
 
 A modular system that powers persistent **nations** on a live Minecraft server:
 
@@ -28,7 +28,6 @@ A modular system that powers persistent **nations** on a live Minecraft server:
 - Persistent storage using **DAOs + SQL**
 - Event-driven architecture (`Listener`s and `Tasks`)
 - Taxation system using real-world time intervals
-- Designed to integrate cleanly with Towny and other plugins
 
 Example Classes:
 - `NationDAO.java` - SQL-backed nation data manager
