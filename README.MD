@@ -77,9 +77,3 @@ They showcase:
 - Game logic
 - Extensibility and modularity
 - Real-time performance considerations
-
----
-
-# Going Forward
-If you would like to see or learn more or even see it in action, please feel free to schedule an online meeting.
-
