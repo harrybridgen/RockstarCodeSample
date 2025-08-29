@@ -5,12 +5,6 @@
 - **Blothera** - a multiplayer, systems-driven Minecraft server using Java, SQL and Minecraft Paper API.
 - **MiniQuest** - a standalone 2D RPG engine/game built in Python + Pygame.
 
-## Note
-- The Blothera code samples shown here are from just **2 of over 30** original plugins.
-- The MiniQuest samples represent approximately **50% of the full project**.
-- This repo only scratches the surface. Many design decisions, including algorithms, data structures, and system architecture, are best discussed live.  
-- If you'd like to look deeper, I'm happy to walk through the code and concepts in a quick online call.
-
 ---
 
 ## Repository Structure
@@ -77,3 +71,4 @@ They showcase:
 - Game logic
 - Extensibility and modularity
 - Real-time performance considerations
+
